@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/XM_Mediator.svg?style=flat)](http://cocoapods.org/pods/XM_Mediator)
 [![Platform](https://img.shields.io/cocoapods/p/XM_Mediator.svg?style=flat)](http://cocoapods.org/pods/XM_Mediator)
 
+## iOS组件化开发架构设计,Target-Action runtime调用方案
+
+## https://www.jianshu.com/p/66082ab2de82
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
