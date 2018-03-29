@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'XM_Mediator_Example' do
+  pod 'XM_Mediator', :path => '../'
+
+  target 'XM_Mediator_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
