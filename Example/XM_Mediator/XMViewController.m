@@ -7,7 +7,7 @@
 //
 
 #import "XMViewController.h"
-
+#import <XM_Mediator/XM_Mediator.h>
 @interface XMViewController ()
 
 @end

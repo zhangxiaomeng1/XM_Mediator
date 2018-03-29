@@ -1,0 +1,22 @@
+{
+  "name": "XM_Mediator",
+  "version": "0.1.0",
+  "summary": "A short description of XM_Mediator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhangxieomeng1/XM_Mediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhangxieomeng1": "zhangxiaomeng@xiangshang360.com"
+  },
+  "source": {
+    "git": "https://github.com/zhangxieomeng1/XM_Mediator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XM_Mediator/Classes/**/*"
+}
